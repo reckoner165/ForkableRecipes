@@ -1,7 +1,6 @@
 ## Borscht
 Borscht is a sweet/sour soup common in Eastern Europe, presumably originating in Ukranian cuisine.
-This recipe makes no claims of being authentic, but I think it touches on most features of canonized borscht.
-I've seen no proper consensus on the 't' in the name. Welp.
+This recipe makes no claims of being authentic.
 
 ## Image
 
