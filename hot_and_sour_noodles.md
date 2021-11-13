@@ -25,7 +25,6 @@ Serves 1:
   
 ### Variations
 - Add a soft boiled egg to make it fuller 
-  - Insert egg into boiling water and let it boil for 5min
 
 ## Attribution
 A modification of Kenji's late night hot & sour noodles
