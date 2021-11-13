@@ -1,7 +1,6 @@
 ## Pseudo Biryani Spice Blend
 Pseudo, because I'm vegetarian and my version of a biryani will forever be a facsimile.
-That said, the spice is fairly versatile and modular when you put it together from scratch.
-It can go on anything that you want it to go on.
+That said, this blend is fairly versatile and modular. It can go on anything that you want it to go on.
 
 ## Image
 
