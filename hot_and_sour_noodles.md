@@ -6,7 +6,7 @@ late night, noodles, chinese
 ## Ingredients
 Serves 1:
 - 3tbsp Soy sauce
-- 4tbsp vinegar (tangy rice vinegar, or dark)
+- 2tbsp vinegar (tangy rice vinegar, or dark)
 - 2tbsp fried chili crisp (Laoganma doesn't disappoint)
 - 1 nest of Dan Dan noodles (any egg noodles will do)
 - 1/4 cup chopped fresh scallion
