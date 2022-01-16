@@ -1,4 +1,4 @@
-## Hot and Sour Soup
+## Hot and Sour Noodles
 Easy and quick bowl of noodles. Great for late night (or 5pm without daylight savings)
 ## Image
 ## Tags
@@ -25,6 +25,7 @@ Serves 1:
   
 ### Variations
 - Add a soft boiled egg to make it fuller 
+- It's okay to use instant noodle nests if that's all you have 
 
 ## Attribution
-A modification of Kenji's late night hot & sour noodles
+A modification of @kenjilopezalt's late night hot & sour noodles
