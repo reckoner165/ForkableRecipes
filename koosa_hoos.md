@@ -23,11 +23,11 @@ zucchini
 
 ## Directions
 
-- Finally chop the onions, dice the tomatoes
+- Finely chop the onions, dice the tomatoes
 - Chop the zucchini into chunky quarters
 - Saute the onions until golden brown
 - Add the zucchini and sautee for a minute until they get golden
-- Cover and simmer for 3-4 minuts (or untiil the zucchini is soft)
+- Cover and simmer for 3-4 minutes (or until the zucchini is soft)
 - Add in the tomatoes, salt and pepper
 - Turn the heat up and stir until the tomato juice and oil emulsify
 - Add more ground black pepper
